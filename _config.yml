@@ -9,7 +9,9 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: bigw # add your name
 author-img: bigw.jpg # add your photo
-about-author: 独立个体. # add description
+about-author: 独立个体。
+  这里用来记录工作学习上的一些思考。
+  希望能通过这种方式，能记录下当时刚接触到它时的那种快乐。
 social-twitter: none # add your Twitter handle
 social-facebook: none # add your Facebook handle
 social-github: hopestar # add your Github handle
