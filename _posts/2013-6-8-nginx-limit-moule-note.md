@@ -4,7 +4,7 @@ title: nginx限制IP连接和请求模块试用
 date: 2013-06-08
 description: Nginx限制IP连接，开启白名单，获取真实客户端真实IP，及验证。
 img: Leaky.webp
-tags: [tech, redis]
+tags: [tech, nginx]
 ---
 nginx 限制ip并发数，nginx限制IP连接数的范例参考：
 
