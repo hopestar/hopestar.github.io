@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  nginx调用redis的几种方式
-date: 2012-09-25
+date: 2015-09-25
 description: nginx调用redis的几种方式
 img: nginx_redis.jpg
 tags: [tech, nginx, redis]
